@@ -1,0 +1,1 @@
+SELECT DISNTINCT(green_taxi.vendor_id) FROM ny_taxi.green_taxi;
